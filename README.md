@@ -19,4 +19,11 @@ BTRFS subvolume manipulation tool in pure python
     other tools to create/delete snapshot, change read/write flag etc ...
 
 ##BUGS
-    There's many, don't expect it to work for you.
+    There's many, don't expect it work for you.
+
+#LICENSE
+  Copyright 2014 by juju2013
+  This software is protected by BSD new-style licence
+  Please see LICENSE for detail
+
+

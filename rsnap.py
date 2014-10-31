@@ -1,5 +1,9 @@
 #! /usr/bin/env python
 
+# Copyright 2014 by juju2013
+# This software is protected by BSD new-style licence
+# Please see LICENSE for detail
+
 import sys, os, subprocess as sb
 from config import config,cmds
 import btrlib, imp
